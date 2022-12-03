@@ -1,5 +1,6 @@
 # Default ignored files
 /shelf/
+/.idea/
 .DS_Store
 
 # Compiled class file
